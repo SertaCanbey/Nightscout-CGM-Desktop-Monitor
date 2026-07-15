@@ -8,7 +8,8 @@
 
 An ultra-minimalist, cyber-style top-right HUD blood glucose monitor for **Nightscout** users, built with **Rainmeter**. Designed to blend seamlessly into your monitor's frame like a futuristic telemetry LED bar.
 
-![Nightscout CGM Monitor Preview](preview.png)
+![Nightscout CGM Monitor Preview](ss1.png)
+
 
 ### ✨ Features
 * **Top-Right HUD Ergonomics:** Specifically designed to sit flush against the top-right border of your monitor without blocking active workspace.
@@ -40,7 +41,7 @@ To link the monitor to your personal Nightscout instance:
 
 **Nightscout** kullanıcıları için **Rainmeter** altyapısıyla geliştirilmiş, ultra-minimal ve siber-künye tasarımlı masaüstü kan şekeri monitörü. Ekranınızın sağ üst köşesine fütüristik bir telemetri LED şeridi gibi milimetrik olarak entegre olmak üzere tasarlanmıştır.
 
-![Nightscout CGM Monitör Önizleme](preview.png)
+![Nightscout CGM Monitör Önizleme](ss2.png)
 
 ### ✨ Özellikler
 * **Sağ Üst HUD Ergonomisi:** Aktif çalışma alanınızı kapatmadan, monitörünüzün sağ üst çerçevesine tam sıfır oturacak şekilde özel olarak kurgulanmıştır.
